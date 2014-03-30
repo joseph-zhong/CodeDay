@@ -1,0 +1,4 @@
+C:\Users\Joseph\documents\visual studio 2010\Projects\2013\2013\bin\Debug\2013.exe
+C:\Users\Joseph\documents\visual studio 2010\Projects\2013\2013\bin\Debug\2013.pdb
+C:\Users\Joseph\documents\visual studio 2010\Projects\2013\2013\obj\x86\Debug\2013.exe
+C:\Users\Joseph\documents\visual studio 2010\Projects\2013\2013\obj\x86\Debug\2013.pdb

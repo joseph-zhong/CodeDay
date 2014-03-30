@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013", "2013\2013.csproj", "{7FFA08CE-4B08-41C3-85D9-36E075EF0722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{F36080FD-5DAE-472C-8684-C951E60AFF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FFA08CE-4B08-41C3-85D9-36E075EF0722}.Debug|x86.ActiveCfg = Debug|x86
+		{7FFA08CE-4B08-41C3-85D9-36E075EF0722}.Debug|x86.Build.0 = Debug|x86
+		{7FFA08CE-4B08-41C3-85D9-36E075EF0722}.Release|x86.ActiveCfg = Release|x86
+		{7FFA08CE-4B08-41C3-85D9-36E075EF0722}.Release|x86.Build.0 = Release|x86
+		{F36080FD-5DAE-472C-8684-C951E60AFF71}.Debug|x86.ActiveCfg = Debug|x86
+		{F36080FD-5DAE-472C-8684-C951E60AFF71}.Debug|x86.Build.0 = Debug|x86
+		{F36080FD-5DAE-472C-8684-C951E60AFF71}.Release|x86.ActiveCfg = Release|x86
+		{F36080FD-5DAE-472C-8684-C951E60AFF71}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

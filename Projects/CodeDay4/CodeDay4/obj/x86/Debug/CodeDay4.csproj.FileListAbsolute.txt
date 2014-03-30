@@ -1,0 +1,7 @@
+c:\users\joseph\documents\visual studio 2010\Projects\CodeDay4\CodeDay4\bin\Debug\CodeDay4.exe
+c:\users\joseph\documents\visual studio 2010\Projects\CodeDay4\CodeDay4\bin\Debug\CodeDay4.pdb
+c:\users\joseph\documents\visual studio 2010\Projects\CodeDay4\CodeDay4\obj\x86\Debug\CodeDay4.Form1.resources
+c:\users\joseph\documents\visual studio 2010\Projects\CodeDay4\CodeDay4\obj\x86\Debug\CodeDay4.Properties.Resources.resources
+c:\users\joseph\documents\visual studio 2010\Projects\CodeDay4\CodeDay4\obj\x86\Debug\CodeDay4.csproj.GenerateResource.Cache
+c:\users\joseph\documents\visual studio 2010\Projects\CodeDay4\CodeDay4\obj\x86\Debug\CodeDay4.exe
+c:\users\joseph\documents\visual studio 2010\Projects\CodeDay4\CodeDay4\obj\x86\Debug\CodeDay4.pdb
